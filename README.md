@@ -19,3 +19,4 @@ This is a password generator that will ask a user how many characters they want 
 ## Links
 https://github.com/Ctorre-21/password-generator
 
+https://ctorre-21.github.io/password-generator/
